@@ -1,0 +1,32 @@
+{
+    "description": [
+        {
+            "title": "MCA",
+            "years": "",
+            "place": "SCSVMV",
+            "details": "MCA (1999 – 2002) with 80 % from Sri Chandrasekharendra Saraswathi Viswa Maha Vidyalaya, Kanchipuram",
+            "bgColor": "#786399"
+        },
+        {
+            "title": "B.Sc (Physics)",
+            "years": "",
+            "place": "The New College",
+            "details": "B Sc (Physics) (1996-1999) with 58% from The New College, University of Madras, Chennai",
+            "bgColor": "#3ba9b8"
+        },
+        {
+            "title": "+2",
+            "years": "",
+            "place": "Brilliant Matricualtion School",
+            "details": "Worked as a Software Specialist in Patni Computer Systems, Pune from Aug’2004 to Mar’ 2010. (2006 to 2008 in Japan)",
+            "bgColor": "#a75754"
+        },
+        {
+            "title": "10th",
+            "years": "",
+            "place": "SSLC",
+            "details": "10th (1994-1995) with 58% from Private Chennai",
+            "bgColor": "#5ba944"
+        }
+    ]
+}
