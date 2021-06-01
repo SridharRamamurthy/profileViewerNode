@@ -10,7 +10,7 @@ const exp = require("./exp.json")
 const edu = require("./edu.json")
 const proj = require("./proj.json")
 const summary = require("./summary.json")
-const profile = require("./profile.json")
+const contacts = require("./contacts.json")
 
 
 app.use(function (req, res, next) {
@@ -51,8 +51,8 @@ app.get("/Summary", (req, res) => {
     res.json( summary);
 });
 
-app.get("/Summary", (req, res) => {
+app.get("/Contacts", (req, res) => {
     res.header("Access-Control-Allow-Origin", "*"); // update to match the domain you will make the request from
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    res.json( profile);
+    res.json( contacts);
 });
